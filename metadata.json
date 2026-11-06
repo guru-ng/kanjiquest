@@ -1,0 +1,6 @@
+{
+  "name": "Kotoba Quest - Japanese Wordle, Typing & Kanji Hub",
+  "description": "Gamified Japanese learning platform for foreigners featuring Wordle-style kana puzzles, fast romaji typing arcade, and spaced-repetition kanji flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
